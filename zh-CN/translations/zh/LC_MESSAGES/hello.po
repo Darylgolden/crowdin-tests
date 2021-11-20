@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Applanga (applanga.com)\n"
+"X-Crowdin-Project: fd8983383d002bebe058f13bb8b23fda\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/sources/hello.pot\n"
+"X-Crowdin-File-ID: 7441\n"
+"Project-Id-Version: fd8983383d002bebe058f13bb8b23fda\n"
+"Language-Team: Chinese Simplified\n"
+"PO-Revision-Date: 2021-11-20 02:20\n"
+
+msgid "hello world!"
+msgstr "世界你好!"
+
+# Here is the description of the key
+msgid "blah blah"
+msgstr "说不完的废话"
+
